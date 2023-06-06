@@ -1,6 +1,6 @@
 # Organic-Product-Website
 ## INTRODUCTION:- 
-The main objective of this project is to design an dynamic,responsive, user-friendly website that showcases a wide range of organic products, educates visitors about the benefits of organic living, and provides a seamless shopping experience. This website contain multipal web pages connected to each other and all pages are fully responsible.
+The main objective of this project is to design a dynamic, responsive, user-friendly website that showcase a wide range of organic products, educates visitors about the benefits of organic living. This website contain multipal web pages connected to each other and all pages are fully responsible.
 ## DEVELOPMENT TOOLS:-
 1) Languages used : HTML, CSS, JavaScript
 2) Editor : vs-code 
