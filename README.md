@@ -1,6 +1,5 @@
 # Organic-Product-Website
-##web development project:
-##INTRODUCTION:-
+#INTRODUCTION:-
 The main objective of this project is to design an dynamic, 
 responsive website using new trending technologies. This website 
 contain multipal web pages connected to each other and all pages are 
