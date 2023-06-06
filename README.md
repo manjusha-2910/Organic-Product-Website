@@ -1,12 +1,12 @@
 # Organic-Product-Website
 ## Description:- 
 The main objective of this project is to design a dynamic, responsive, user-friendly website that showcase a wide range of organic products, educates visitors about the benefits of organic living. This website contain multipal web pages connected to each other and all pages are fully responsible.
-## DEVELOPMENT TOOLS:-
+## Technologies Used:-
 1) Languages used : HTML, CSS, JavaScript
 2) Editor : vs-code 
 3) Web-Browser : Microsoft-Edge, Google Chrome.
 4) Frameworks and Libraries : Bootstrap 5
-## FEATURES :-
+## Features :-
 1) Fully responsive for phone, ipad, pc etc
 2) User friendly
 ## Screenshots:-
